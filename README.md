@@ -1,4 +1,4 @@
-# Interpreter-For-Toy-Language Fall/2022
+# Interpreter Fall/2022
 Java-based project in which I had to come up with an interpreter for a toy language
 
 # WHAT I LEARNED
